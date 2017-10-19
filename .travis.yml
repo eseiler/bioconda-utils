@@ -27,3 +27,4 @@ matrix:
 branches:
   only:
     - master
+    - location
